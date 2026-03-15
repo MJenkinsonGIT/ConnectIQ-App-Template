@@ -47,8 +47,6 @@ Each release includes three files. All three contain the same app — the differ
 
 **Option B — extracting from the `.iq` file**
 
-Garmin `.iq` files are 7-zip archives, not standard ZIP. Windows' built-in extractor cannot open them — you need **[7-Zip](https://www.7-zip.org/)** (free).
-
 1. Install 7-Zip if you don't have it
 2. Right-click the `.iq` file → **7-Zip → Extract Here**
 3. Inside the extracted folder, find the `.prg` file inside the device ID subfolder
